@@ -4,7 +4,8 @@
 
 Este es un repo de prueba
 
-##Nueva Seccion
+# Nueva Seccion
+
 Esta es una seccion nueva de prueba.
 
 # Seccion de Jennifer
